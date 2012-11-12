@@ -19,8 +19,7 @@
     <p>
         <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="Login" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button3" runat="server" onclick="Button3_Click" Text="Get IP" />
-    </p>
+        </p>
     <p>
         <asp:ListBox ID="ListBox1" runat="server" Height="70px" Width="577px">
         </asp:ListBox>

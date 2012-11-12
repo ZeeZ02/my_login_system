@@ -286,23 +286,5 @@ namespace Secrurity_login
             }
             return boolCheck;
         }
-
-        protected void Button3_Click(object sender, EventArgs e)
-        {
-            string whatIsMyIp = "http://automation.whatismyip.com/n09230945.asp";
-            WebClient wc = new WebClient();
-            UTF8Encoding utf8 = new UTF8Encoding();
-            string requestHtml = "";
-            try
-            {
-                requestHtml = utf8.GetString(wc.DownloadData(whatIsMyIp));
-            }
-            catch (WebException we)
-            {
-                // do something with exception
-                Console.Write(we.ToString());
-            }
-            ListBox2.Items.Add("externalIp : " + requestHtml.ToString());
-        }
     }
 }
