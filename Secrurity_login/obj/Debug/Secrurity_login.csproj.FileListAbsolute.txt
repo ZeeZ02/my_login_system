@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2010\Projects\Secrurity_login\Secrurity_login\bin\Secrurity_login.dll
+c:\users\martin\documents\visual studio 2010\Projects\Secrurity_login\Secrurity_login\bin\Secrurity_login.pdb
+c:\users\martin\documents\visual studio 2010\Projects\Secrurity_login\Secrurity_login\obj\Debug\ResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2010\Projects\Secrurity_login\Secrurity_login\obj\Debug\Secrurity_login.dll
+c:\users\martin\documents\visual studio 2010\Projects\Secrurity_login\Secrurity_login\obj\Debug\Secrurity_login.pdb
